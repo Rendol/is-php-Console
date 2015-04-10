@@ -21,7 +21,7 @@ class Runner
 	/**
 	 * @var string
 	 */
-	public $php;
+	public $php = 'php';
 
 	/**
 	 * Construct
